@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+quanticalabs.com	TRUE	/	FALSE	1999999999	cm_direction	deleted
+quanticalabs.com	TRUE	/	FALSE	1999999999	cm_main_color	deleted
+quanticalabs.com	TRUE	/	FALSE	1999999999	cm_image_overlay	deleted
+quanticalabs.com	TRUE	/	FALSE	1999999999	cm_layout	deleted
+quanticalabs.com	TRUE	/	FALSE	1999999999	cm_layout_style	deleted
+quanticalabs.com	TRUE	/	FALSE	1999999999	cm_header_top_bar	deleted
+quanticalabs.com	TRUE	/	FALSE	1999999999	cm_menu_type	deleted
+quanticalabs.com	TRUE	/	FALSE	1999999999	cm_header_type	deleted
+
